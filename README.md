@@ -1,7 +1,9 @@
 # ReactJS_Data_Fetch_API
  ReactJS Data Fetch APIs allow developers to request real world data from an own or a third-party API. 
  
- React’s componentDidMount () lifecycle method is the best place to fetch data. Explored are; 
+ React’s componentDidMount () lifecycle method is the best place to fetch data. 
+ 
+ Explored are; 
  
  > Fetching data with React’s Native Fetch from a remote URL. 
  
