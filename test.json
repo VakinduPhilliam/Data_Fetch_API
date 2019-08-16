@@ -1,0 +1,10 @@
+"person": {
+  "name": John,
+
+  "lastname": Doe,
+  "interests": [
+    "hiking",
+    "skiing"
+  ],
+  "age": 40
+}
